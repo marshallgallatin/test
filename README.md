@@ -2,9 +2,9 @@
 Just a test repository for learning how to use git/github
 
 # Useful links
-* [Markdown] (original markdown)
-* [GitHub Markdown] (github flavored markdown)
-* [Dillinger] (online markdown editor)
+* [Markdown] - original markdown
+* [GitHub Markdown] - github flavored markdown
+* [Dillinger] - online markdown editor
 
 
 [Markdown]: http://daringfireball.net/projects/markdown/syntax
